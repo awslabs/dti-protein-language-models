@@ -1,11 +1,6 @@
-## My Project
+## DTI protein language models
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository contains code to train and use models to predict drug-target binding affinity.
 
 ## Security
 
